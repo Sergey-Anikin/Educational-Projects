@@ -17,3 +17,4 @@
 | [Прогнозирование заказов такси](taxi_order_forecasting) | Необходимо построить модель для прогнозирования заказов такси на следующий час. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *lightgbm*, *statsmodels* |
 | [Определение токсичных комментариев](toxic_comments) | Необходимо построить модель, которая будет определять токсичные комментарии. Со значением метрики качества F1 не меньше 0.75. | *pandas*, *numpy*, *nltk*, *re*, *matplotlib*, *sklearn*, *lightgbm* |
 | [Определение возраста покупателей](ML_computer_vision) | Необходимо построить модель, которая будет определять возраст по фотографии. Со значением метрики качества MAE меньше 8. | *pandas*, *seaborn*, *matplotlib*, *tensorflow* |
+| [Определение температуры стали](ML_temp_steel_prediction) | Необходимо построить модель, которая будет предсказывать температуру стали. | *pandas*, *numpy*,  *re*, *seaborn*, *matplotlib*, *sklearn*, *lightgbm*, *catboost* |
